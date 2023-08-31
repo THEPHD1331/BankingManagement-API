@@ -1,7 +1,5 @@
 # BankingManagement-API
 
-This is a Banking Management REST CRUD API made in Spring Boot.
-
  I designed and developed a robust Banking Management REST CRUD API project using Spring Boot. This project seamlessly handles the essential components of the banking ecosystem, including Banks, Branches, Accounts, Loans, Customers, and Transactions.
 
 # Key Features:
