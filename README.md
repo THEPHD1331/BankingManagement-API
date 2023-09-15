@@ -35,3 +35,18 @@ The API adheres to RESTful principles, ensuring that endpoints are logically str
 Documentation: 
 
 I ensured that the API endpoints are well-documented using tools such as Swagger. This documentation simplifies API consumption for other developers, streamlines onboarding, and improves collaboration.
+
+# Snapshots
+
+![bankBranch](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/e2632528-48ce-4f55-ad24-33fa1ac980a7)
+
+![loanCustomer](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/69f37232-4fa1-4355-b1df-dbd102b57e6d)
+
+![accTransac](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/a4d68dfe-3563-4abd-b0a1-03b37cf511f9)
+
+GET: Banks
+![GetBanks](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/5f2077f5-6102-4ada-ba93-9b40682566b2)
+
+GET: Branch by Code
+![getByCode](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/370905eb-41a5-49e8-9003-e1fe0e5babd0)
+
