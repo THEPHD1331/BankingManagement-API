@@ -50,3 +50,11 @@ GET: Banks
 GET: Branch by Code
 ![getByCode](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/370905eb-41a5-49e8-9003-e1fe0e5babd0)
 
+POST: Customer
+![SaveCustomer](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/76462c29-4988-4463-94cb-5603b1eaa0c0)
+
+DELETE: Loan
+![loanDelete](https://github.com/THEPHD1331/BankingManagement-API/assets/126282296/dbaabb3c-976a-4e19-a1d0-d9f6d34c1762)
+
+
+
